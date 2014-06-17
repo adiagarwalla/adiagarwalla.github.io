@@ -1,7 +1,5 @@
 body {
   text-align: center;
-  vertical-align: middle;
-
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
@@ -19,5 +17,31 @@ body {
 
 /* Padding for spacing */
 .inner {
-  padding: 30px;
+  padding: 20px;
+}
+
+.fa {
+  padding: 10px;
+}
+
+.f6s {
+  padding: 10px;
+  font-size: 30px;
+}
+
+.angel {
+  padding-bottom: 20px;
+}
+
+.footer {
+  color: silver;
+}
+
+.icon {
+  color: #000;
+}
+
+.icon:hover {
+  color: #000;
+  opacity: .5;
 }
