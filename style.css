@@ -3,14 +3,14 @@ body {
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
-.site-wrapper {
+.adityaagarwalla-site-wrapper {
   display: table;
   width: 100%;
 }
-.site-wrapper-inner {
+.adityaagarwalla-site-wrapper-inner {
   display: table-cell;
 }
-.cover-container {
+.adityaagarwalla-cover-container {
   margin-right: auto;
   margin-left: auto;
 }
@@ -24,21 +24,21 @@ body {
   padding: 10px;
 }
 
-.f6s {
+.adityaagarwalla-f6s {
   padding: 10px;
   font-size: 30px;
 }
 
-.angel {
+.adityaagarwalla-angel {
   padding-bottom: 20px;
   color: #000;
 }
 
-.footer {
+.adityaagarwalla-footer {
   color: silver;
 }
 
-.adityaagarwallaicon {
+.adityaagarwalla-icon {
   color: #000;
 }
 
