@@ -25,7 +25,6 @@ body {
 }
 
 .adityaagarwalla-f6s {
-  text-decoration: none;
   padding: 10px;
   font-size: 30px;
 }
@@ -40,6 +39,7 @@ body {
 }
 
 .adityaagarwalla-icon {
+  text-decoration: none;
   color: #000;
 }
 
