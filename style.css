@@ -46,6 +46,10 @@ body {
   text-decoration: none;
 }
 
+.m-profile {
+  padding-bottom: 0;
+}
+
 .icon:hover {
   color: #000;
   opacity: .5;
@@ -54,4 +58,9 @@ body {
 .adityaagarwalla-update {
   font-family: Helvetica;
   font-size: 18px;
+}
+
+.adityaagarwalla-line {
+  margin-top: 0;
+  margin-bottom: 0;
 }
